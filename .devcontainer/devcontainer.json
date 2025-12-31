@@ -1,0 +1,7 @@
+{
+  "name": "DevCrew C++ Codespace",
+  "image": "mcr.microsoft.com/devcontainers/cpp",
+  "features": {},
+  "settings": {},
+  "extensions": ["ms-vscode.cpptools"]
+}
